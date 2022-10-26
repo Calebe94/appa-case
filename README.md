@@ -16,6 +16,9 @@ The **CAD** details I've used is:
 * Switch Type: `ALPS`
 * Stabilizer Type: `Alps (Costar fallback)`
 * Case Type: `Sandwich`
+* USB Cutout: 
+    * Location: `0`
+    * Width: `15`
 * Mount Holes: `10`
     * Diameter(mm): `3.5`
     * Edge Width(mm): `10`
